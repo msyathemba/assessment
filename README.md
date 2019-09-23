@@ -2,7 +2,7 @@
 assessment for intersekt
 
 ## Assessment answers:
-1. <Add link to test plan Markdown/Gherkin file from task 1>
+1. https://github.com/msyathemba/assessment/blob/master/test/todolist.feature
 2. https://github.com/msyathemba/assessment/edit/master/bugReport/bug.md
  
 
