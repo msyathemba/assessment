@@ -2,7 +2,7 @@
 
 Feature: Feature for ToDoList Item application
 
-   Feature Description
+  
 
 #1
 @deploytoDocker
