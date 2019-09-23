@@ -5,7 +5,7 @@ Feature: Feature for ToDoList Item application
    Feature Description
 
 #1
-@deplotoyDocker
+@deploytoDocker
 Scenario: Application must be able to deploy to docker
 Given docker is installed on user machine
 And Docker image has been built
