@@ -1,4 +1,4 @@
-Bug Number:	1
+Bug Number: 1
 
 
 Bug Title: Todo items should not be able to be empty
